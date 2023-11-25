@@ -3,7 +3,7 @@ This repository is dedicated to my journey of learning and practicing React.js. 
 
 This repository contains two projects:[now]
 
-1. ## Google Keep Clone(./google-keep-clone)
+1. ## Google Keep Clone [google-keep-clone](./google-keep-clone)
    Description: This project is a clone of Google Keep, a note-taking app. It was created using React and showcases the basic principles of building a modern web application.
 
 2. ## My Portfolio(./my-portfolio)
