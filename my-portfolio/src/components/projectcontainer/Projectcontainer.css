@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Mochiy+Pop+One&family=Montserrat:wght@300;600&display=swap');
+
+.projectcontainer{
+    color: white;
+    font-family: "montserrat", sans-serif;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 100px;
+    
+      
+}
+
+.projectcontainer>h1{
+    font-size: 30px;
+    font-family:"montserrat",sans-serif;
+    font-weight: bold;
+    padding-bottom: 10px;
+   
+}
+
+.projectcontainer>p{
+    font-family: "montserrat", sans-serif;
+    font-weight: 300;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.projectcontainer__projects{
+    display: flex;
+    margin-top: 15px;
+    width: 75vw;
+    flex-wrap: wrap;
+
+}

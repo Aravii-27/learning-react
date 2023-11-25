@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Josefin+Sans&family=Mochiy+Pop+One&family=Montserrat:wght@300;600&display=swap');
+
+.contactContainer{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+
+}
+
+.contactContainer > h1{
+    padding: 20px;
+    font-size: 30px;
+    font-family:"montserrat",sans-serif;
+    font-weight: bold;
+}
+
+.contactContainer__info{
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 200px;
+    margin-top:20px;
+    padding: 30px;
+}
+
+.contactContainer__info>p{
+    font-size:20px;
+    padding-bottom:30px;
+    text-align: left;
+}
+
+.contactContainer__info>p>span{
+    color:#0071ff;
+}
+
+.contactIcons > a> button> .MuiSvgIcon-root{
+    color: white;
+    font-size: 30px;
+
+}

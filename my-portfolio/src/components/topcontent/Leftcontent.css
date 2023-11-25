@@ -1,0 +1,30 @@
+.leftcontent{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 120px;
+    right: 100px;
+    
+}
+
+@keyframes floating {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-20px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+
+ .leftcontent> img{
+    
+    box-shadow: 10px 10px 50px ;
+    border-radius: 100%;
+    width: 600px;
+    object-fit: cover; 
+    animation: floating 3s ease-in-out infinite;
+}
