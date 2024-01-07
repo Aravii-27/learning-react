@@ -32,7 +32,7 @@ const AddPostForm = () => {
 
   const canSave = Boolean(title) && Boolean(content) && Boolean(userId)
   return (
-    <section>
+    <section >
       <h3>Add a New Post</h3>
       <form>
         <label htmlFor="postTitle">Post Title:</label>
