@@ -9,9 +9,10 @@ const App = () => {
   const [temp, setTemp] = useState("");
   const [description, setDescription] = useState("");
   const [icon, setIcon] = useState("");
+ 
 
   const findWeather = async () => {
-    const apiKey = "0b6599767aae6d6f13b8d4887d89a1ba";
+    const apiKey = "";
     const unit = "metric";
     const url =
       "https://api.openweathermap.org/data/2.5/weather?q=" +
