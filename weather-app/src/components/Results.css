@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Josefin+Sans&family=Mochiy+Pop+One&family=Montserrat:wght@300;400;600&display=swap');
+
+.result_container{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: #f8f8f8;
+}
+
+.result_field{
+    text-align: center;
+    background-color: rgb(49, 207, 133);
+    padding: 10%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+    padding-top: 0;
+    padding-bottom: 20px;
+    margin:20px;
+    width:30%
+
+}
+
+.result_field> h1{
+    font-family: "montserrat", sans-serif;
+
+}

@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Josefin+Sans&family=Mochiy+Pop+One&family=Montserrat:wght@300;400;600&display=swap');
+
+
+.container{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: #f8f8f8;
+}
+
+.container_field{
+    text-align: center;
+    background-color: white;
+    padding: 10%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+    padding-top: 0;
+    padding-bottom: 20px;
+    margin:20px;
+    width:30%
+   
+
+}
+
+.container_field> h1{
+    font-family: "montserrat", sans-serif;
+    margin-top: 0;
+    padding-top: 5px;
+    padding-bottom: 2px ;
+    margin-bottom: 0;
+    text-align: center;
+    
+    
+}
+
+.container_field> p{
+   margin:0;
+   padding-bottom:20px;
+}
+
+.container_field> img {
+    width:15%;
+    padding-top:2px;
+    padding-bottom:50px;
+}
+
+.container_field> form> button{
+    background-color: rgb(13, 174, 99) !important;
+    text-transform: inherit !important;
+    margin: 20px;
+}
+
