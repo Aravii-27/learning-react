@@ -1,7 +1,7 @@
 # learning-react
 This repository is dedicated to my journey of learning and practicing React.js. Here, I'll be documenting my progress, sharing code snippets, and possibly creating small projects to solidify my understanding of React concepts.
 
-This repository contains two projects:[now]
+This repository contains projec8
 
 1. ## [Google Keep Clone](./google-keep-clone)
    Description: This project is a clone of Google Keep, a note-taking app. Capture and organize your thoughts seamlessly with this user-friendly replica, It was created using React and showcases the basic principles of building a modern web application.
